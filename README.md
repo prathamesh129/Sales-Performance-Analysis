@@ -14,6 +14,7 @@ A data analysis project using SQL and Power BI to analyze sales performance, cus
 ## Data Source
 
 Dataset: Public Sales Dataset downloaded from Kaggle.
+
 The dataset contains sales transaction records, including order details, customer information, product categories, regions, and sales values. It was used to perform sales analysis and build an interactive Power BI dashboard.
 
 ## Project Features
@@ -32,8 +33,6 @@ The dataset contains sales transaction records, including order details, custome
 - Interactive dashboard for business analysis.
 
 ## Files Included
-- Dataset
 - SQL Queries
 - Power BI Dashboard (.pbix)
-- Dashboard PDF
 - Screenshots
